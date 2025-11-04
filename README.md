@@ -1,1 +1,0 @@
-# Plataforma-de-processamento-de-imagens-com-morfologia-matem-tica-em-n-vel-de-cinza
